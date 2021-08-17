@@ -5,6 +5,7 @@ Built on top of the [authentication App](https://github.com/cgill7/AuthAPP), thi
 
 <br >
 Asking for permissions : <br >
+
 The [Dexter](https://github.com/Karumi/Dexter) library has been used for asking for location permissions from the user during runtime.
 <br >
 Hiding the API keys : <br >
